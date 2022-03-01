@@ -6,8 +6,8 @@ Any JDK version
 
 Steps to Install:- 
 
-1. $ git clone https://github.com/dhruvkrishnavaid/periodic-table-tester.git
+1. ``` $ git clone https://github.com/dhruvkrishnavaid/periodic-table-tester.git ``` 
 
-2. $ javac element.java
+2. ``` $ javac element.java ```
 
-3. $ java element
+3. ``` $ java element ```
